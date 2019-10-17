@@ -1,3 +1,3 @@
 # CourseRepository
 This is a course repository for e-commerce web work
-This e-store is goign to be replica of german website OTTO.de
+This e-store is goign to be replica of german website OTTO.de for an organization to boost their business
